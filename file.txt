@@ -1,2 +1,4 @@
 Hello GIT
 Adding now this from remote repository.
+adding line from local repository
+adding again from local repo...
